@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Full Stack Developer | Pursuing B.S. in Software Engineering</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=John%20Schmidt&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20based%20in%20Wisconsin&descAlignY=51&descAlign=62" alt="Header Image" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,007BFF&height=300&section=header&text=John%20Schmidt&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20based%20in%20Wisconsin&descAlignY=51&descAlign=62" alt="Header Image" width="100%"/>
 </p>
 
 ---
