@@ -28,8 +28,8 @@ I am a Software Engineering student based in Wisconsin with a background in mana
 ---
 
 ### 🤝 Let's Connect
-* **LinkedIn:** [linkedin.com/in/YOUR_PROFILE](https://linkedin.com/in/john-schmidt-1a348a219)
-* **Portfolio:** [[Link to your Vercel-deployed site](https://jschmidt-dev.vercel.app/)]
+* **LinkedIn:** [John Schmidt](https://linkedin.com/in/john-schmidt-1a348a219)
+* **Portfolio:** [[John Schmidt Portfolio](https://jschmidt-dev.vercel.app/)]
 
 ---
 
