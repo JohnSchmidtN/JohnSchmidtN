@@ -1,57 +1,36 @@
-<h1 align="center">Hi there, I'm John Schmidt 👋</h1>
-<h3 align="center">Aspiring Full Stack Developer | Pursuing B.S. in Software Engineering</h3>
+# Hi, I'm John Schmidt 👋
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,007BFF&height=300&section=header&text=John%20Schmidt&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20based%20in%20Wisconsin&descAlignY=51&descAlign=62" alt="Header Image" width="100%"/>
-</p>
+### Software Engineering Student | SNHU Coding United Board Member
 
----
-
-### 👨‍💻 About Me
-
-- 🎓 I am a student based in **Wisconsin**, currently pursuing my Bachelor's degree in **Computer Science** with a concentration in **Software Engineering**.
-- 🔭 I’m currently working on an **Event Finder Website and Application**.
-- 🌱 I’m currently learning **React** and **TailwindCSS**.
-- 👯 I’m looking to collaborate on open source projects and web applications.
+I am a Software Engineering student based in Wisconsin with a background in management and a passion for building functional, efficient applications. Currently, I am focused on mastering full-stack development and contributing to the coding community at SNHU.
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Tech Stack & Tools
 
-<div align="center">
+**Languages & Frameworks**
+* **Frontend:** React, Vite, Tailwind CSS
+* **Backend:** Python (Django), C++, Java
+* **Tools:** Docker, Git, Obsidian.md, Raspberry Pi (Cyberdeck projects)
 
-  **Languages**<br>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-
-  <br>**Frameworks & Libraries**<br>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
-
-  <br>**Tools & Environment**<br>
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-
-</div>
+**Current Projects**
+* **SNHU Coding United:** Developing resources and community initiatives.
+* **Course Optimizer:** A C++ application for academic pathfinding.
+* **E-commerce Apparel Site:** Built with React and Tailwind CSS.
+* **Humble Bundle Discord Bot:** Python-based deal scraper.
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="John's Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
-</div>
+### 📈 GitHub Stats
+![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnSchmidtN&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnSchmidtN&layout=compact&theme=tokyonight)
 
 ---
 
-### 📫 Connect with Me
+### 🤝 Let's Connect
+* **LinkedIn:** [linkedin.com/in/YOUR_PROFILE](https://linkedin.com/in/john-schmidt-1a348a219)
+* **Portfolio:** [[Link to your Vercel-deployed site](https://jschmidt-dev.vercel.app/)]
 
-<p align="left">
-<a href="https://www.linkedin.com/in/john-schmidt-1a348a219/" target="blank"><img align="center" <img src="[https://cdn.simpleicons.org/linkedin/0A66C2](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" width="24" height="24" alt="LinkedIn" /></a>
-<a href="mailto:your-email@example.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>
-</p>
+---
+
+*“Building things one line of code at a time.”*
